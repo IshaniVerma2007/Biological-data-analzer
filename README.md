@@ -105,13 +105,16 @@ This project satisfies the BYOP requirements:
 ✔ Interactive and user-friendly design
 ✔ Well-documented and easy to use
 
-##🧠 Reflection
+## 🧠 Reflection
 
 This project helped in understanding how programming can be applied to solve real-world scientific problems. It strengthened both coding skills and biological understanding, making it a meaningful and practical learning experience.
 
-##📌 Submission Components
+## 📌 Submission Components
+
 ✔ GitHub Repository
+
 ✔ Project Report
+
 ✔ README File
 
 ## ⭐ Acknowledgment
