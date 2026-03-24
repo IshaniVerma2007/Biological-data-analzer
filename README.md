@@ -60,3 +60,60 @@ String manipulation
 Input validation
 
 Menu-driven programming
+
+## ⚠️ Constraints & Assumptions
+
+Only valid DNA bases are accepted: A, T, G, C
+
+Input is automatically converted to uppercase
+
+Invalid inputs are handled with error messages
+
+Mutation index must be within sequence range
+
+## 🧠 Key Learnings
+
+Practical implementation of Python concepts
+
+Designing interactive CLI applications
+
+Applying programming in bioinformatics
+
+Improving debugging and validation skills
+
+Writing modular and reusable code
+
+## 🔍 Future Enhancements
+
+GUI-based version using Tkinter
+
+File handling for large DNA datasets
+
+Full codon table for accurate protein synthesis
+
+Graphical visualization of DNA statistics
+
+Integration with biological APIs/databases
+
+🧾 Evaluation Alignment
+
+This project satisfies the BYOP requirements:
+
+✔ Real-world problem (DNA analysis)
+✔ Application of Python concepts
+✔ Clean, modular code structure
+✔ Interactive and user-friendly design
+✔ Well-documented and easy to use
+
+##🧠 Reflection
+
+This project helped in understanding how programming can be applied to solve real-world scientific problems. It strengthened both coding skills and biological understanding, making it a meaningful and practical learning experience.
+
+##📌 Submission Components
+✔ GitHub Repository
+✔ Project Report
+✔ README File
+
+## ⭐ Acknowledgment
+
+This project was developed as part of the Python Essentials course BYOP (Bring Your Own Project) to demonstrate practical application of programming concepts by Ishani Verma 25BOE10013
