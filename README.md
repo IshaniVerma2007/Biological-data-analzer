@@ -48,9 +48,15 @@ Improve problem-solving and logical thinking skills
 🛠️ Technologies Used
 Programming Language: Python 3
 ## Concepts Applied:
+
 Functions
+
 Loops (conditional & counter-controlled)
+
 Dictionaries
+
 String manipulation
+
 Input validation
+
 Menu-driven programming
