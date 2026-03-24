@@ -61,6 +61,13 @@ Input validation
 
 Menu-driven programming
 
+<img width="1362" height="654" alt="Screenshot 2026-03-24 191730" src="https://github.com/user-attachments/assets/1d502981-0d38-41b4-b6ab-68b2cc4e9139" />
+
+<img width="985" height="948" alt="Screenshot 2026-03-24 191925" src="https://github.com/user-attachments/assets/10173341-5b63-4cfb-8e19-c05635b05028" />
+
+<img width="942" height="794" alt="image" src="https://github.com/user-attachments/assets/74479b1a-949d-4724-b77f-f821c4db8f75" />
+
+
 ## ⚠️ Constraints & Assumptions
 
 Only valid DNA bases are accepted: A, T, G, C
@@ -120,3 +127,4 @@ This project helped in understanding how programming can be applied to solve rea
 ## ⭐ Acknowledgment
 
 This project was developed as part of the Python Essentials course BYOP (Bring Your Own Project) to demonstrate practical application of programming concepts by Ishani Verma 25BOE10013
+
